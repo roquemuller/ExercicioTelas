@@ -1,0 +1,8 @@
+<resources>
+    <string name="hello_world">Hello World, ExercicioTelas!</string>
+    <string name="app_name">ExercicioTelas</string>
+    <string name="title_activity_main">Exemplo Telas</string>
+    <string name="menu_settings">Configuração</string>
+    <string name="exemplo_de_ciclo_de_vida">Exemplo de ciclo de vida. \\nConsulte os logs do ciclo de vida no LogCat.</string>
+    <string name="disponivel_para_a_implementacao_do_programador">Disponível para a implementação do programador</string>
+</resources>
